@@ -1,0 +1,79 @@
+body{
+   
+}
+div.main{
+background-color: #5384df;
+height: 700px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+div.registraioncard{
+width: 560px;
+background-color: white;
+margin: 10px;
+border-radius: 10px;
+
+}
+
+div.left{
+margin-left: 10px;
+width: 250px;
+float: left;
+
+
+}
+div.left input{
+ margin: 5px;
+ padding: 7px;
+ border-radius: 5px;
+ width: 150px;
+ display: block;
+}
+div.right{
+margin: 0;
+margin-right: 10px;
+width: 250px;
+float: right;
+}
+
+div.right input{
+ margin: 5px;
+ padding: 7px;
+ border-radius: 5px;
+ width: 150px;
+
+}
+
+div.bottom{
+ margin-left: 10px;
+ float: left;
+}
+
+.button1{
+ float: left;
+ margin: 20px;
+ padding: 10px;
+ width: 100px;
+ background-color: rgb(203, 33, 64);
+ color: white;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+.button2{
+float: left;
+margin: 20px;
+padding: 10px;
+width: 100px;
+background-color: rgb(67, 81, 228);
+ color: white;
+ border-radius: 5px;
+ cursor: pointer;
+}
+   
+
+
